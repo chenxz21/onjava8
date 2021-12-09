@@ -59,17 +59,6 @@
 - [x] [附录:C++ 和 Java 的优良传统](docs/book/Appendix-The-Positive-Legacy-of-C-plus-plus-and-Java.md)
 - [ ] [附录:成为一名程序员](docs/book/Appendix-Becoming-a-Programmer.md)
 
-## 原书资料
-
-<div align="left">
-<img src="https://raw.githubusercontent.com/LingCoder/OnJava8/master/cover_small.jpg"  alt="cover_small"/>
- </div>
-
-- 作者: Bruce Eckel
-- ISBN: 9780981872520
-- 页数：2038
-- 发行：仅电子版
-
 ## 示例代码
 
 - [gradle: OnJava8-Examples](https://github.com/BruceEckel/OnJava8-Examples)
